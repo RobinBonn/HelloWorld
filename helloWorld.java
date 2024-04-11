@@ -1,3 +1,4 @@
 public class Main {
-  console.log("Hello World!")
+  public static void main(String[] args) {
+  console.log("Hello World!");
 }
